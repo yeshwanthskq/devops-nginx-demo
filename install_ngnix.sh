@@ -3,6 +3,10 @@
 # xxxx
 # xxxx
 # xxxx
+#
+
+echo "---------- Installing NGNIX------------"
+
 
 sudo apt-get update -y
 
